@@ -16,7 +16,7 @@ export function About() {
               <div className="space-y-2">
                 <div className="flex items-center gap-2 text-primary">
                   <GraduationCap className="w-5 h-5" />
-                  <span className="font-mono text-sm">2022 - Present</span>
+                  <span className="font-mono text-sm">2023 - Present</span>
                 </div>
                 <h3 className="text-xl font-semibold text-foreground">
                   B.Tech in Artificial Intelligence & Data Science
