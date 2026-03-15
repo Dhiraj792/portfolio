@@ -10,7 +10,7 @@ const projects = [
       "Analyzed Amazon sales data using KPIs such as Total Sales, Profit, Quantity Sold, and Profit Margin",
       "Built interactive dashboards to identify trends, performance insights, and business opportunities",
     ],
-    github: "https://github.com/Dhiraj792",
+    github: "https://github.com/Dhiraj792/Amazon-products",
   },
   {
     title: "Movie Recommender System",
@@ -20,10 +20,23 @@ const projects = [
     description: [
       "Developed a content-based recommendation system using Python and vectorization techniques",
       "Performed data preprocessing and feature extraction",
-      "Deployed the application using Streamlit and Heroku",
+      "Deployed the application using Streamlit",
     ],
-    github: "https://github.com/Dhiraj792",
+    github: "https://github.com/Dhiraj792/Movie-Recommender-System",
   },
+  {
+    title: "Mental Health Awareness",
+    role: "Data Analyst",
+    icon: Film,
+    tech: ["Power BI"],
+   description: [
+        "Analyzed digital lifestyle data using KPIs such as Mental Health Score, Average Screen Time, and Physical Activity",
+        "Built an interactive dashboard to visualize the relationship between caffeine intake, gaming habits, diet, and mental health trends",
+        "Identified behavioral insights by analyzing anxiety levels, depression scores, and wellness app usage",
+        ],
+    github: "https://github.com/Dhiraj792/mental-health-awareness-",
+  },
+
 ]
 
 export function Projects() {
